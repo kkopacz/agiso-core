@@ -91,7 +91,7 @@
 
 		<!-- Apache Commons libraries versions -->
 		<commons.lang.version>2.6</commons.lang.version>
-		<commons.beanutils.version>1.8.3</commons.beanutils.version>
+		<commons.beanutils.version>1.9.4</commons.beanutils.version>
 
 		<!-- Spring libraries versions -->
 		<spring.version>4.3.18.RELEASE</spring.version>
