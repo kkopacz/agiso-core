@@ -30,7 +30,7 @@ import org.testng.annotations.Test;
  * @author Karol Kopacz
  * @since 1.0
  */
-@Test(sequential = false)
+@Test(singleThreaded = false)
 public class BeanUtilsMTest {
 	@Test(expectedExceptions = BeanRetrievalException.class)
 	public void testNotInitialized() throws Exception {
